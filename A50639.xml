@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius scoticus giving the world to ground upon this evident truth, videlicet, that the Scottish rebels, the Presbyter, or kirckfaction never intended that Charles the second should be their King published to underceive [sic] the cozoned covenanters of the three nations meerely drawn into blood and ruine by the iugling of some ruling iockeys.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50639</idno>
+            <idno type="STC">Wing M1772</idno>
+            <idno type="STC">ESTC R28129</idno>
+            <idno type="EEBO-CITATION">10410048</idno>
+            <idno type="OCLC">ocm 10410048</idno>
+            <idno type="VID">44993</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44993)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1388:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius scoticus giving the world to ground upon this evident truth, videlicet, that the Scottish rebels, the Presbyter, or kirckfaction never intended that Charles the second should be their King published to underceive [sic] the cozoned covenanters of the three nations meerely drawn into blood and ruine by the iugling of some ruling iockeys.</title>
+               </titleStmt>
+               <extent>15 [i.e.13] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by P.C. and are to be sold by Gysbert van Roon,</publisher>
+                  <pubPlace>Rotterdam :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1649-1660.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44993:1"/>
+            <pb facs="tcp:44993:1" rendition="simple:additions"/>
+            <p>MERCURIUS SCOTICUS Giving the World to ground upon this evident truth, Videlicet, That the Scotiſh Rebels, the Presbyter, or Kirck-faction: Never intended that <hi>CHARLES</hi> the ſecond ſhould be their King.</p>
+            <p>Publiſhed to underceive the Cozoned Covenanters of the three Nations, meerely drawne into Blood and Ruine by the Iugling of Some ruling Iockeys.</p>
+            <p>
+               <hi>Printed at Rotterdam</hi> by P. C. and are to be ſold By GYSBERT van ROON, Bookſeller in the Draybridge-ſteegh, in the English Bible, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:44993:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:44993:2"/>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the news of Charles the firſts death came into <hi>Scotland,</hi> the States-men who were inveſted with the government of that kingdome before, by <hi>L. Gen. Crom<g ref="char:EOLhyphen"/>wel</hi> and the <hi>English</hi> army, in <hi>Octo.</hi> 1648. (Duke <hi>Hamiltons</hi> army being defeated and betrayed three moneths before.)</p>
+            <p>The Kings death ſeemed to them to be much grieved for, &amp; thoſe Eſtates preten<g ref="char:EOLhyphen"/>ded to be as forward to revenge it as any.</p>
+            <p>And leaſt it should appear to the people, that they with <hi>L. Gen. Cromwell</hi> had complotted his death, at my Lady <hi>Humnes</hi> her houſe in the ſuburbs of <hi>Edenbrough,</hi> they complaine againſt the Indepen<g ref="char:EOLhyphen"/>dants of <hi>England</hi> or murthering the King, but the furious Kirkmen, which could not ſo well diſſemble, in their Kirkprayers and preach<g ref="char:EOLhyphen"/>ments: in plain tearmes told their credulous, ignorant, eaſie au<g ref="char:EOLhyphen"/>ditors, that he deſerved to die, having been a hinderer of Refor<g ref="char:EOLhyphen"/>mation, I, and had shed much blood of the Saints.</p>
+            <p>He, fiery Sir Iohn blamed the Independant for doing it without the houſe of Lords, did not diſclaim the act as unjuſt or contrary to the laws of God and man, as an unchriſtian, as an inhumane and unheard of, ſavage, monſtrous bloody act, in their anſwer to <hi>L. Gen. Cromwells</hi> declaration to the equal ſcarlet <hi>Scots</hi> in <hi>Scotland Iuly</hi> 20. 1650. Theſe ſtates of that nation (never without a cloake, for their deſignes,) proclaimed <hi>Charles</hi> the ſecond, to make the world be<g ref="char:EOLhyphen"/>leeve that they and the elder <hi>Iuncto</hi> in <hi>England</hi> were not united in hearts and councels, and equally abominated Monarchy.</p>
+            <p>Yet ſo proclaimed they the king, that no judicious man, but might ſee they never intended to receive him to be their King, (what ere, to gull the ſimple, they pretended,) whereupon a royall party in the North betook themſelves into the field, finding he muſt not be their free Prince, but in bonds: for they heard him proclaimed King with this limitation that he should give ſuch ſecurity to pre<g ref="char:EOLhyphen"/>ſerve Liberty, Law and Religion, as the Kirk and State should judge ſatisfactory, that is, he should give what ever the factious Rebels should aske of him, before he should be admitted to enter the kingdome, hereupon the <hi>Scottish</hi> Statesmen diſpatch Commiſ<g ref="char:EOLhyphen"/>ſioners
+<pb n="4" facs="tcp:44993:3"/>unto him at the Iſle of <hi>Ierſey</hi> with ſuch unreaſonable propo<g ref="char:EOLhyphen"/>ſitions and demands; as that his Majeſtie could not in honor or ſafety grant them. In this treaty his Majeſty diſclaimed his <hi>Scotch</hi> friends who were in armes for him, <hi>May</hi> 15. 1649, The Treaty being diſſolved, the Commiſſioners returne his Majeſties negative an<g ref="char:EOLhyphen"/>ſwere to the State and Kirk of <hi>Scotland,</hi> which was moſt accepta<g ref="char:EOLhyphen"/>ble to the Grandees of that rebellious crew, for now they had ſome ground of quarrell.</p>
+            <p>His title to the Crowne was unqueſtionable, his innocent age blameleſſe, O but now, now they have what they fisht for, his negative anſwer will afford them matter enough to declare againſt him, as now concluding him (one overruled by evill Counſell, the old way of worming in) an enemy into the Eſtate and Kirk, where<g ref="char:EOLhyphen"/>upon they reſolved at that inſtant to declare peremptorily againſt him, and for a month continued in this reſolution, but upon fur<g ref="char:EOLhyphen"/>ther debates and ſecond thoughts, finding the greateſt part of the kingdome loyall and ready to joyne with the <hi>Marques of Montroſe,</hi> if he came in with any conſiderable force, they reſolve once more to ſend to his Majeſty before they would publish the declarations they had then provided, judging it a farr better way to defeat the <hi>Marq. Montroſe</hi> his deſigne, in making his Majeſty an abſolute Monarch by a Treaty, then oppoſing his Generall in the field, this being ſubject to the chance of warre: but the other ſafe and ſure a ſubtle way, and finding divers eminent perſons that had power with the King, to perſwade him to deſert <hi>Montroſe,</hi> and caſt himſelf upon them and their faithfull, godly party.</p>
+            <p>Upon this conſideration <hi>Mr. George Windrum</hi> was ſent to the Iſle of <hi>Ierſey,</hi> to deſire his Majeſty would be pleaſed to appoint a con<g ref="char:EOLhyphen"/>venient place and time for a ſecond treaty, which he according to the good meaning of his innocent royall heart did, naming <hi>Breda,</hi> and the 15 of <hi>March</hi> 1649. the place and time of meeting.</p>
+            <p>In the beginning of which ſecond treaty, his Majeſty did ſtand to his former principles: But at laſt ſome eminent perſons prevailed with him to yeeld to the <hi>Scots</hi> demands, to work which the <hi>Hamil<g ref="char:EOLhyphen"/>tonian</hi> faction in the Court, to my knowledge, were alſo excee<g ref="char:EOLhyphen"/>dingly aſſiſtant, repreſenting to his Majeſty that the <hi>Marq. Mon<g ref="char:EOLhyphen"/>troſe</hi> was not 200 foot ſtrong in <hi>Orkney,</hi> and that ſuch an inconſider<g ref="char:EOLhyphen"/>able force could not be able to raiſe the countrey of <hi>Scotland,</hi> and that for forrain aid from Princes, there was no poſſibility of ex<g ref="char:EOLhyphen"/>pecting it, moſt of them being unable, and much engaged in war, and others having ſcare quenched the fire in their own dominions, were not willing to involve themſelves, or ſubjects in a forrain
+<pb n="5" facs="tcp:44993:3"/>warre, which would require a dayly ſupply of men and mony from them.</p>
+            <p>They told him it would be encouragement to his friends abroad to be aiding and aſſiſting to him, if he were poſſeſſed of one of his kingdomes, and that his yeelding to the <hi>Scots</hi> party would give great ſatisfaction to the <hi>Presbiterians</hi> of <hi>England,</hi> and much hearten them and others to take up armes againſt the Rebels of <hi>England.</hi>
+            </p>
+            <p>Upon theſe and other motives, with the earneſt ſolicitation of thoſe perſons, his Majeſty concludes an abſolute agreement with the <hi>Scots</hi> Commiſſioners, and ſends a letter to the <hi>Marq.</hi> of <hi>Montroſe</hi> commanding him to disband his forces, and retire to <hi>Denmarke</hi> un<g ref="char:EOLhyphen"/>till further order, and that he should deliver up his armes and amu<g ref="char:EOLhyphen"/>nition to the <hi>Scots</hi> Commiſſioners, or to the Sheriffe of the County wherein he was.</p>
+            <p>But before the Gentleman could come into <hi>Scotland</hi> the <hi>Marq.</hi> of <hi>Montroſe</hi> was taken priſoner, and moſt barbarouſly murthered by the Kirk and State, for his loyalty and fidelity to the King. Here judge you if <hi>Charles</hi> the firſt was not murthered, and <hi>Charles</hi> the ſe<g ref="char:EOLhyphen"/>cond wounded, not in effigies or in picture: but in the higheſt image and character that could repreſent Majeſty, in his Generall and Vice-roy.</p>
+            <p>Now all this while his Majeſty is treating at <hi>Breda,</hi> the <hi>Scots</hi> hold knowne correſpondency with thoſe of <hi>England, Mr. Ansley</hi> being Agent at <hi>Edenbrough,</hi> ſending dayly proviſion to the garri<g ref="char:EOLhyphen"/>ſons of <hi>Barwick</hi> and <hi>Newcaſtle,</hi> and ſoliciting them dayly for aid a<g ref="char:EOLhyphen"/>gainſt the <hi>Marq. of Montroſe,</hi> but a week before the <hi>Marq.</hi> landed, a Statesman wrote a letter to <hi>Sr. Arthur Haſſelrig,</hi> giving him a true account of their preſent condition <hi>Aprill</hi> 14. 1650, aſſuring him that the affaires of that kingdome were come to that height, that the godly party would be forced to fly to <hi>England</hi> very ſuddainly, if that the <hi>English</hi> did not advance preſently toward their borders,</p>
+            <p>During this treaty alſo likewiſe the Miniſters did endeavour both by their prayers and preachments, to make the royall Family odi<g ref="char:EOLhyphen"/>ous to the people, and to diſgrace the loyall party, affirming them to be more wicked and greater enemies to God and true Religion, then the Sectaries or Independants of <hi>England,</hi> and that they might with greater ſafety joyn with Independants, then with the Malig<g ref="char:EOLhyphen"/>nant party, that were honoured by the King, but dishonorous of God and his true worship, ſuch and ſome of them were <hi>Mr. Hogge, Lesley, Mungalaw, Iohn Sterling, and Hamilton.</hi>
+            </p>
+            <p>The States of <hi>Scotland</hi> being now free of all fear of being annoyed any more by the Kings party, his Generall and Viceroy hanged, and
+<pb n="6" facs="tcp:44993:4"/>his body quartered, they begin to aſſume their former reſolutions and deſigne of having no King. And to that end diſpatch <hi>Mr. William Murray</hi> with letters and new inſtructions to their Commiſ<g ref="char:EOLhyphen"/>ſioners, requiring them forthwith to break off the Treaty and re<g ref="char:EOLhyphen"/>turn, becauſe their proclaimed King had broken faith with them, in ſending the <hi>Marq. of Montroſe</hi> to invade <hi>Scotland</hi> in the time of trea<g ref="char:EOLhyphen"/>ty, (wherein they highly and falſly abuſe his Majeſty, for there was no ceſſation agreed on) and that if they had made any agree<g ref="char:EOLhyphen"/>ment with their King to diſclaim it, in their name, as having gone further then their Commiſſion or Inſtructions led them or would warrant them.</p>
+            <p>And that they might have ſome colour of reaſon for this, they ſend ſome Animadverſions vpon their firſt inſtructions, shewing their true meaning and intention in them, (which I may one day get and publish,) and that their Commiſſioners had miſſetaken their meaning in concluding and agreeing with the King.</p>
+            <p>They command <hi>Mr. Murray</hi> to preſent unto the King, how much the kingdome of <hi>Scotland</hi> was enraged againſt him, and how by common conſent and the univerſall cry, his Generall was exe<g ref="char:EOLhyphen"/>cuted (that in him, and his death he might ſee the affections of that people alienated from him, and what his own fate might prove,) that he dyed excommunicate, being denied abſolution, was quar<g ref="char:EOLhyphen"/>tered, his head ſtaked up, and bowels buried under the gallows.</p>
+            <p>And that it might clearly appear he could not go for <hi>Scotland</hi> in ſafety, they give him a liſt of fourteen Noblemen and Gentlemen that were banisht <hi>Scotland,</hi> without whoſe perſonall preſence his Majeſty could not continue in the kingdome one day in ſafety.</p>
+            <p>And that theſe Machevills might have ſome shew of reaſon for diſclaiming their King, and draw the people to joyn with them in this their laſt deſigne againſt his Majeſty, they appoint two decla<g ref="char:EOLhyphen"/>rations to be penned, one by the Kirk, another by the State, and that the penners of thoſe declarations might be the better furnished with matter, they examine their then priſoners of <hi>Montroſes</hi> party concerning their Commiſſions granted to them to invade the king<g ref="char:EOLhyphen"/>dome, interogating them what Princes his Majeſty had ſolicited to that end, and whether they ever heard his Majeſty call them Rebels and Traitors, and whether he did not threaten to deſtroy <hi>Scotland</hi> with fire and ſword, in caſe they did not ſubmit to him.</p>
+            <p>And whether they did not think his Majeſty popishly affected, and whether, while he was in <hi>France</hi> he did not go to Maſſe.</p>
+            <p>Theſe and the like intergatories were put to the priſoners, in hope that through fear to diſpleaſe them, ſome of them would depoſe
+<pb n="7" facs="tcp:44993:4"/>what might contribute to a charge againſt their innocent King.</p>
+            <p>And that the people might be the better perſwaded for diſclai<g ref="char:EOLhyphen"/>ming their King, their Miniſters in ther Pulpits and Sermons told the people that his Majeſty did now shew himſelf an <hi>Hawk</hi> of the right neſt, and that he would be more bloody then ever his father was, or any of his Progenitors; <hi>Mr. Lesly, Mr. Hogge</hi> and others.</p>
+            <p>That it appeared clearly, God had ſuch a controverſie with the royall Family, as he had with <hi>Ahabs,</hi> and that he hoped to live to ſee that Race out off Root and Branch.</p>
+            <p>In their prayers they made the King and his father of ever bleſſed memory, guilty of all the blood that had been shed in the three kingdomes, and prayed God that <hi>Charles</hi> the ſecond might never come to ſit upon his Throne untill he repented himſelf of granting Commiſſions to wicked men, to shed the blood of Gods peculiar people.</p>
+            <p>But further, theſe Rebels knowing that a baredeclaration would not maintain the quarrell againſt the King and his party, they re<g ref="char:EOLhyphen"/>ſolve to rew modell their army, and to keep open correſpondency with the State of <hi>England,</hi> and to make a league offenſive and de<g ref="char:EOLhyphen"/>fenſive with them. To this end they diſpatch one <hi>Major Dicſn,</hi> a known Independent to the State of <hi>England,</hi> to let them know they had ſent to their Commiſſioner <hi>Mr. Will. Murray</hi> to recall them, and diſclaim any agreement with him their proclaimed King.</p>
+            <p>Having thus cloathed their deſigne, they dreame of a perpetuall enjoyment of their uſurped power, and of ſetling the peace of that State in ſuch a way, that the whole world should not be able to diſturbe it.</p>
+            <p>But vain and foolish prove the counſels of men, where God ſits not preſident, the wiſedome of theſe <hi>Achitephels,</hi> a months time findes turned into folly, for before <hi>Mr. Murray</hi> could get into <hi>Holland,</hi> his Majeſty and the <hi>Scots</hi> Commiſſioners were fully agreed, and his Majeſty gone with them into <hi>Scotland,</hi> and before the Par<g ref="char:EOLhyphen"/>liament of <hi>Scotland</hi> knew his Majeſty was landed, the agreement which was made at <hi>Breda</hi> was ratified by both parties on <hi>Scotch</hi> ground and ſo fully confirmed, that it was not poſſible in the State to que<g ref="char:EOLhyphen"/>ſtion the Agreement,</p>
+            <p>The unexpected newes of his Majeſties landing, though it a<g ref="char:EOLhyphen"/>mazed the Statesmen, and ſuch as I will not name (for ſome reaſons untill my next,] yet was the hearts of all ſorts of other people tranſ<g ref="char:EOLhyphen"/>ported with unſpeakeable joy, inſomuch as they received him as King, and as another <hi>Moſes</hi> ſent of God to deliver them from their unjuſt and overtiring Taske maſters, which did not onely oppreſſe
+<pb n="8" facs="tcp:44993:5"/>them in their eſtates, by continued illegall taxes and impoſitions, by free quarter and exciſe, and in their perſons by banishments and impriſonments: but in their very ſoules, forcing them to go on in, and perpetrate their wicked courſes againſt God and their King.</p>
+            <p>But upon his Majeſties arrivall, as if at preſent they felt eaſe by his preſence from all theſe, generall joy is expreſſed by fireing bea<g ref="char:EOLhyphen"/>cons and making bonefires three nights together, and ſuch like pub<g ref="char:EOLhyphen"/>lications to the world of honouring their King, with much ſtudied joy, and that it was in vaine now for the <hi>Scotch</hi> party to oppoſe the King, or confine him to the caſtle of <hi>Dunnotter,</hi> as ſome of them after his arrivall moved he might have been, but his Majeſties un<g ref="char:EOLhyphen"/>expected and ſodain comming, together with the peoples univer<g ref="char:EOLhyphen"/>ſall joy for an honourable reception of him</p>
+            <p>Not onely prevented the plots of the rebellious party of Kirk and State againſt him: but likewiſe it encreaſed the jealouſie the <hi>English</hi> had of the <hi>Scots</hi> Presbitry. and did engage them againſt their bre<g ref="char:EOLhyphen"/>thren of <hi>Scotland,</hi> who a week or two before had given them aſ<g ref="char:EOLhyphen"/>ſurance that they had ſent a meſſenger into <hi>Holland</hi> to recall their Commiſſioners, and that they were reſolved abſolutely to have no King,</p>
+            <p>And wrought upon the State of <hi>England</hi> to command <hi>Gen. Cromwell</hi> forthwith into <hi>Scotland</hi> with a powerfull army, and a ſquadron of ships to be ſent to ſea: but unſearchable are the works of God, and his wayes paſt finding out, now are the wicked enſnared in their own devices, and brought to ſuch a ſtraight they know not what to doe. Their King having given all ſatisfaction, and being brought home by their Commiſſioners, is ſo high in the heart of his ſub<g ref="char:EOLhyphen"/>jects, that they find it impoſſible to eject him.</p>
+            <p>And the <hi>English</hi> inraged, as if undoubtedly they had been de<g ref="char:EOLhyphen"/>ceived by the Kirk and Parliament of that kingdome, In wrath approach with a powerfull army, whereupon the Parliament and Kirk ſend a meſſenger unto <hi>Gen. Cromwell,</hi> deſiring him not to ap<g ref="char:EOLhyphen"/>proach neer the borders, but that a Treaty might be admitted, whereby a right underſtanding between the Nations might be pre<g ref="char:EOLhyphen"/>ſerved, and that they might the more plainly make it appeare, that their intentions were true and reall in keeping the ſolemne league and covenant of peace betweene the nations.</p>
+            <p>To this, <hi>Gen. Cromwell</hi> replied, he would treat with them when he came to <hi>Edenbrough,</hi> This anſwere being returned, the Parlia<g ref="char:EOLhyphen"/>ment put it to the vote, whether an army should be raiſed for the defence of the countrey. Eight of the prime Statesmen vote no army: (their names you shall have in the next) but the Miniſters
+<pb n="9" facs="tcp:44993:5"/>or Kirk faction, whoſe intereſt the Independant could not, or they knew would not ſecure, voted for an army, and the for<g ref="char:EOLhyphen"/>ward of thoſe Kirkers gave aſſurance for the raiſing of a Regi<g ref="char:EOLhyphen"/>ment of horſe for <hi>Major Straughan.</hi>
+            </p>
+            <p>And that they might abate the fury of the <hi>English,</hi> they ſet forth a declaration, in which they call heaven and earth to witneſſe, that they never intended to invade <hi>England.</hi>
+            </p>
+            <p>His ſacred Majeſty within a day, after his landing wrote two letters, one to the Parliament, and the other to the Committee of Kirk, ſignifying to them, that he had ſatisfied their demands to the full, and that he was come into that his kingdome, with a reſolution to be ruled by them, and that it should evidently appear to be their fault, and not his, if there were failer in any thing, Theſe letters ſeemed to give ſatisfaction to his greateſt enemies, and hereupon they voted for the ſpeedy Coronation of his Majeſty, in that he had given full ſatisfaction to their Commiſſioners, and had himſelfe taken the Covenant, ſo they grounded their vote for Coronation, as by a true extract from their Parliament journall book is witneſſed.</p>
+            <p>Now obſerve next, that his Majeſty travelled from the North of that kingdome to the Southward, and was received (as before) at <hi>Aberdeen, Dundee, St. Andrews, St. Iohnſons, &amp;c.</hi> by the <hi>Earles of South Aske, and Martiall,</hi> The more the people expreſſe their love and loyalty to him their King, the more jealous grew the State factions in Kirk and Parliament.</p>
+            <p>And thereupon the Parliament is wrought upon to ſend forth a Proclamation, commanding the <hi>English</hi> that came in with his Ma<g ref="char:EOLhyphen"/>jeſtie (but ſuch as should be approved of by Kirk and State) to de<g ref="char:EOLhyphen"/>part the kingdome, and that no Malignants should come within ten miles of the court. And to ſecond this, the leading Kirkmen bellow it out, that the peoples rejoycing would ere long be turned into mourning, and that for all they knew, God had ſent them a King in his anger.</p>
+            <p>Within a fortnight after his Majeſty came to <hi>Faulkland,</hi> he remo<g ref="char:EOLhyphen"/>ved to <hi>Sterling,</hi> where he received an invitation from the Committee to come to the army, which his Majeſty cheerfully embraced, and was no ſooner entred their Trenches, but the ſouldiers raiſed a
+<pb n="10" facs="tcp:44993:6"/>shout (which gave an Alarm to the Enemy) and in their exclama<g ref="char:EOLhyphen"/>mations ſaid, We have a good cauſe, We have a good cauſe, Now let us fight for God and our King.</p>
+            <p>But this heartineſſe of theirs, gave exceeding great offence, and ſpurred up the leading Kirkmen, in their things, a little like Sermons, that they had a good cauſe, when they had no King, yet ſay what they could, whilſt his Majeſty was in the army (which was five dayes) the ſouldiers expreſſe moſt obſerveable reſolutions, chalked upon their Armes when they went out to charge the Enemy, We are for <hi>King Charles,</hi> and when they ſaw <hi>Sir Iames Hacket</hi> make a cowardly retreat in the ſight of his Majeſty and Army, the ſouldi<g ref="char:EOLhyphen"/>ers cried out, let <hi>Collonel Hacket</hi> be hanged, for he is a Coward and a Traytor.</p>
+            <p>The leading Kirkers finding his Majeſty to have ſuch an unex<g ref="char:EOLhyphen"/>pected influence upon the army, ruggedly deſired him to be gone, for that they had obſerved, that ſince his Majeſties comming into the army, the ſouldiers did neglect their duty to God and themſelves his Miniſters, and therefore he muſt away.</p>
+            <p>The King being gone, they fall to purging the army of all Ma<g ref="char:EOLhyphen"/>lignants <hi>English and Scots,</hi> to the number of five thouſand aſſured fighting men, who knew what enemies were,</p>
+            <p>Within a week after his Majeſty went from the army, the <hi>En<g ref="char:EOLhyphen"/>glish</hi> Rebels retreat to <hi>Dunbar,</hi> which was ſome twenty miles, where<g ref="char:EOLhyphen"/>upon the Kirkers are raiſed to ſuch an height of pride and inſolency, as that nothing fils their ſtalles more, then that God had shown they were beloved of him, his dear children and choſen, whom he would protect as he did <hi>Hezekiah and Ieruſalem,</hi> to which purpoſe the Chap. ordered to be expounded by all the Levites in the Camp was 2. <hi>Kings</hi> 19. But woe and alas, theſe jocund thankſgivings of theirs prove very fatall, for the enemy by his retreate drew them from their Trenehes, to gaine oppertunity, the better to fight them a<g ref="char:EOLhyphen"/>broad, whom he knew could never ſtand one charge in open field, being an irregular fresh and raw number of men, from whom the fighting Nobility, Gentry and ſouldiers, were (as <hi>Gen. Cromwell</hi> could have deſired) either forced or casheared the field, and in<g ref="char:EOLhyphen"/>hibited bearing Armes.</p>
+            <p>Remarkeable now is it, how this Kirk and States preſumption,
+<pb n="11" facs="tcp:44993:6"/>treachery, inſolency and pride did forerun their deſtruction, for no ſooner did the <hi>English</hi> rebels Army charge them, but they fled. threw away their Arms, and cry for quarter. Thus wicked men ha<g ref="char:EOLhyphen"/>ſten to their ruin, and are reſolute to their own overthrow: for had they not been led by the headſtrong Kirkers to purſue, but had kept within their Trenches, the <hi>English</hi> Army through want of health by famine, and many diſtreſſes to which they were driven, muſt uncontrovertibly within few dayes have retreated with as infinite shame and dishonour on their parts, as it would have been advantage and encouragement to their now beaten brethren, dear brethren of <hi>Scotland.</hi>
+            </p>
+         </div>
+         <div type="documents">
+            <div type="declaration">
+               <head>For the confirmation of much (if not of all) here aſſerted, (my unbyaſed Reader) excuſe the incerting of the Kirks own declaration Aug 15. 1650. worth thy running over.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Commiſſion of the generall Aſſembly, conſidering that there may be juſt ground of ſtumbling from the Kings Majeſty, re<g ref="char:EOLhyphen"/>fuſing to ſubſcribe and emit the declara<g ref="char:EOLhyphen"/>tion offered unto him by the Committee of Eſtates and Commiſſioners of the generall Aſſembly, con<g ref="char:EOLhyphen"/>cerning the firme carriage and reſolution for the future, in reference to the cauſe of God, and the enemyes and friends thereof: Doth hereby de<g ref="char:EOLhyphen"/>clare: That the Kirke and Kingdome doe not owne, or eſpouſe any malignant party or quarrel or intereſt; But that they fight meerely upon their former grounds and principals, and in defence of the cauſe of God and the kingdome, as they have done the twelve yeers paſt, and therefore as they diſclaim all the ſinnes and guilt of the King and his
+<pb n="12" facs="tcp:44993:7"/>houſe, ſo they will not own him nor his intereſt, otherwiſe then with a ſubordination to God, and ſo far as he owns and proſecutes the cauſe of God, and diſclaimes his and his fathers oppoſition to the work of God and to the Covenant, and likewiſe all the enemies thereof. And that they will with all convenient ſpeed, take in conſideration the papers ſent to them from Oliver Cromwell, and vindicate themſelves from all the falshoods contained there<g ref="char:EOLhyphen"/>in, eſpecially in thoſe things wherein the quarrell betwixt us and that party is miſtated, that is if we owned the late Kings proceedings, and were reſol<g ref="char:EOLhyphen"/>ved to proſecute and maintain his preſent Majeſties intereſt, before and without acknowledgement of the ſinnes of his houſe and former wayes to Gods people in both kingdomes.</p>
+               <closer>
+                  <signed>A. Ker.</signed>
+               </closer>
+            </div>
+            <div type="approval">
+               <p>The Committee of Eſtates having ſeen and con<g ref="char:EOLhyphen"/>ſidered a declaration of the Commiſſioners of the generall Aſſembly, anent the ſtating of the quar<g ref="char:EOLhyphen"/>rell wherein the army is to fight, do approve the ſame and heartily concurre therein.</p>
+               <closer>
+                  <signed>Tho. Hend.</signed>
+               </closer>
+            </div>
+            <div type="colophon">
+               <p>Printed by Evan Tyler Printer to the Kings moſt excellent Majeſtie. 1650.</p>
+            </div>
+         </div>
+         <div type="proof">
+            <pb n="13" facs="tcp:44993:7"/>
+            <head>Further Collectives conducing to the proof of the purpoſed ground.</head>
+            <p>Since the <hi>Scotch</hi> Army was routed, the Kirk have commanded a generall Faſt, and have in Print, given theſe reaſons to incite thereunto,</p>
+            <list>
+               <item>1. For that we have ſinned, and finde the diſpleaſure of the Lord upon us of this Nation in generall.</item>
+               <item>2. For the ſinnes of our Commiſſioners, in bringing our King ſo ſoon, contrary to the minde of the godly party.</item>
+               <item>3. For our acceptance of him for our King before he had more ſufficiently repented him of his by paſt ſinnes.</item>
+               <item>4. For not throughly purging the Army of the Malignants of the Nations.</item>
+               <item>5. For our too much truſting to the Arme of flesh.</item>
+            </list>
+            <p>Conſider theſe things, and I shall onely offer two or three more for thee to ruminate at preſent. <hi>Vize.</hi>
+            </p>
+            <list>
+               <item>1. Their moulding the groſſe lump of their <hi>Scottish</hi> State according to the <hi>English</hi> Rebels preſent Plotforme.</item>
+               <item>2. Their murthering his Maieſties Generall, or executing them who appeared with him in Armes, that had any ſpark of loyalty, No ceſſation being agreed upon.</item>
+               <item>3. Their depriving thoſe Miniſters that affected Monarchy, hated independancy and antemonarchicall Sectaries.</item>
+               <item>4. Their eſtablishing their government of that kingdome theſe laſt yeeres to this very day, in the hands of thoſe who were enemies to Monarchie, and engaged to deſtroy the royall Family, having been ſo highly active in the late rebellion againſt <hi>Charles</hi> the firſt.</item>
+               <item>5. Their entruſting the Army and Forts of that kingdome to this houre, with none but the known Enemies of Monarchie.</item>
+               <item>
+                  <pb n="14" facs="tcp:44993:8"/>
+Their not being in a poſture of defence in their kingdome to re<g ref="char:EOLhyphen"/>ceive the enemy, at their not fortifying <hi>Leeth</hi> and other places.</item>
+               <item>7. Their making no proviſion for the reception of the King, by preparing any of his houſes for him before he came.</item>
+               <item>8. Being come, the banishing his Majeſties domeſtick ſervants.</item>
+               <item>9. Their Miniſters Mr. <hi>Iames Guthery,</hi> Mr. <hi>Blair,</hi> Mr. <hi>Rotherford, &amp;c.</hi> impudently as falſly diſgraceing and dishonouring his Majeſtie, and his father of eternally bleſſed memory in their Court ſermons, or ſuch like things to his face.</item>
+               <item>10. Their not crowning his Majeſtie.</item>
+               <item>11. Their not ſuffering his Majeſty to abide in the Army, or to call to his aid thoſe whom he knew would not fear an enemy.</item>
+               <item>12. Their not ſetting, or ſuffering him to ſet up his Standard royall.</item>
+               <item>13. Their daily ſetting forth moſt dishonourable Proclamations of their own in his ſacred name.</item>
+            </list>
+            <p>And to look a little back, for keeping correſpondency with the <hi>English</hi> Rebels, and entertaining Mr. <hi>Ansley</hi> as their Agent from <hi>England,</hi> during the time the Commiſſioners were in tretay at <hi>Breda.</hi>
+            </p>
+            <p>To all which, adde Mr. <hi>Murrays</hi> commiſſion and inſtructions to the <hi>Scots</hi> Commiſſioners at <hi>Breda,</hi> to break off the Treaty, and to diſclaim any agreement with their King, and now <hi>Mercurius Scotius</hi> appeals to the judgements of rationall men through the world, whe<g ref="char:EOLhyphen"/>ther he be from ſuch premiſes, falſe in his concluſion, <hi>Vizt.</hi>
+            </p>
+            <p>That the carrying Kirkmen and Committee of State in <hi>Scotland,</hi> never intended their King should come into <hi>Scotland,</hi> or themſelves to engage in a war with the <hi>English</hi> upon his Intereſt. In short, that they never intended or do intend to have a King.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="15" facs="tcp:44993:8"/>
+                  <opener>
+                     <salute>Salutes due, &amp;c.</salute>
+                  </opener>
+                  <p>SIr, at preſent to ſatisfie you further of our publike affaires here, this nation is divided, and ſtands upon three Intereſts, Collonel Straughan and Carr have one Army in the weſt of Scotland, David Leſly and Argile abut Sterling and St. Iohnſtons, Major General Middleton and the Marq. of Hunt<g ref="char:EOLhyphen"/>ly another in the North, which laſt army hath made a new Covenant, almoſt in the old language. The loyall party in Athold have cut off a Regiment of David Leſlys horſe, ſupriſing them in their quar<g ref="char:EOLhyphen"/>ters by night. Dr. Frozer contrived a conveyance of his Majeſty from Argiles party to Clova in An<g ref="char:EOLhyphen"/>gus: but was betrayed in his deſigne by the treache<g ref="char:EOLhyphen"/>ry of ſome of them that carried him away, and his Majeſty forced back again. The old plot onely the Sceane altered, God prevent.</p>
+                  <closer>
+                     <dateline>Aberdeen <date>Octob. ult.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>I thanke my friend for his intelligence, much more for his Prayers, and have ſome reaſon to joyn with him, God grant it be not turnd upon the King. he deſerted us, we are at large to deſert him, and the fate of Charles the ſecond be not the ſame with the firſt.</p>
+            <p>The change of affaires may be ſtrange upon this ſmall action of Major Gen. Middleton: Grant a uniting of theſe Intereſts, and finde an expedient for the preſerving Argiles perſon and ſecuring his friends, and I shall proclaim hopes for the abuſed King.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
